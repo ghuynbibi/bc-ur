@@ -11,6 +11,7 @@
 #include <exception>
 #include <iterator>
 #include <string>
+#include <cstdint>
 #include <type_traits>
 
 #ifndef __BYTE_ORDER__
